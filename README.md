@@ -1,1 +1,3 @@
-# attendance-management-system-8124
+# Project Repository
+
+This is the initial README file for the project.
